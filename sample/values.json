@@ -1,0 +1,6 @@
+{
+  "bound_error_code": "E_BAD_BOUNDS",
+  "low": 10,
+  "high": 30,
+  "values": [4, 10, 18, 25, 30, 45, 9]
+}
